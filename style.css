@@ -1,0 +1,47 @@
+body {
+    background-image: url(Imagens/fundo.3.jpg);
+    background-size: cover;
+    color: white;
+    text-align: justify;
+    margin: 50px 60px 40px 40px;
+    font-family: font-family: 'Poltawski Nowy', serif;
+}
+
+h1 {
+    font-size: 50px; 
+    margin-bottom: 000px;
+    color: white;
+}
+h2 {
+    font-size: 24px;
+    margin-bottom: 120px;
+    margin-top: 4px;
+    color: black;
+    font-weight: bolder;
+}
+
+p {
+    font-size: 26px;
+    color: black;
+    font-weight: bolder;
+    margin:0px
+    
+}
+ul {
+    font-size: 30px;
+    list-style: none;
+    margin-top: 190px;
+    margin-left: 1050px;
+}
+
+.botao {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    margin-top: 60px;
+}
+.botao: :hover {
+    opacity: 02;
+}
+
+
